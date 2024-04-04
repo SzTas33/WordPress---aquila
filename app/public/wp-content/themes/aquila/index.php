@@ -15,6 +15,6 @@
   <title>WordPress Theme</title>
 </head>
 <body>
-  <h1>Lepegeto kutyafasz</h1>
+  <h1>HARMAS kutyafasz</h1>
 </body>
 </html>
